@@ -76,6 +76,9 @@ section{
   margin-bottom: 30px;
   border-bottom: 1px solid black;
 }
+p{
+  font-size: 15px;
+}
 @media screen and (max-width: 700px){
   #first_header {
     display: flex;
